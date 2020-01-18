@@ -1,0 +1,22 @@
+{
+  "name": "yannglt-resume",
+  "version": "1.0.0",
+  "description": "My past and current life as an Internet Maker and Product Designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannglt/yannglt-resume.git"
+  },
+  "author": "yannglt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannglt/yannglt-resume/issues"
+  },
+  "homepage": "https://github.com/yannglt/yannglt-resume#readme",
+  "devDependencies": {
+    "inquirer": "^7.0.3"
+  }
+}
